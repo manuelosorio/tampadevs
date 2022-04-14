@@ -1,7 +1,7 @@
 ---
 title: The story of Tampa Devs
 author: Vincent Tang
-date: 2022-03-01
+date: 2022-03-01 00:00:00 -5:00
 intro: How Tampa Devs all started! Presented by one of the founding members, Haritha!
 hero_img: /_assets/img/blog/2021/first_event_tampa_devs.jpg
 youtube_id: 4IAWSgrmVl0

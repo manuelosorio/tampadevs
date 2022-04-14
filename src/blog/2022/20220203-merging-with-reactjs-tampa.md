@@ -1,7 +1,7 @@
 ---
 title: Merging with ReactJS Tampa
 author: Vincent Tang
-date: 2022-02-03
+date: 2022-02-03 00:00:00 -5:00
 intro: ReactJS Tampa will now be part of TampaDevs!
 hero_img: /_assets/img/blog/2022/reactjs_tampa.png
 ---

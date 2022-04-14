@@ -1,7 +1,7 @@
 ---
 title: Our first talk!
 author: Vincent Tang
-date: 2021-10-28
+date: 2021-10-28 1:00:00 -5:00
 intro: Launching our first networking event! And a new website!
 hero_img: /_assets/img/blog/2021/first_event_cropped.png
 ---

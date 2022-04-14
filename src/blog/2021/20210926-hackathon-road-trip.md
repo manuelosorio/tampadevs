@@ -1,7 +1,7 @@
 ---
 title: Hackathon Road Trip!
 author: Vincent Tang
-date: 2021-09-26
+date: 2021-09-26 00:00:00 -5:00
 intro: Launching our first networking event! And a new website!
 hero_img: /_assets/img/blog/2021/hackathon_road_trip.jpg
 ---

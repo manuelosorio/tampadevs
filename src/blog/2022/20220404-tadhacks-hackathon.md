@@ -1,7 +1,7 @@
 ---
 title: Partnership with TADHacks
 author: Vincent Tang
-date: 2022-04-04
+date: 2022-04-04 00:00:00 -5:00
 intro: Our new global hackathon organizer & sponsor
 hero_img: /_assets/img/blog/2022/tadhack_global_prize.png
 ---

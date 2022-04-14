@@ -1,7 +1,7 @@
 ---
 title: Partnering with Young Professional Tampa Groups
 author: Vincent Tang
-date: 2022-03-16
+date: 2022-03-16 00:00:00 -5:00
 intro: On our latest event at Sparkman's Wharf!
 hero_img: /_assets/img/blog/2022/sparkman_wharf.jpg
 youtube_id: 4IAWSgrmVl0
