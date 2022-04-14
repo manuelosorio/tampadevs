@@ -1,7 +1,7 @@
 ---
 title: Intro To Typescript & Shipping a Unity game on Steam
 author: Vincent Tang
-date: 2021-12-01
+date: 2021-12-01 00:00:00 -5:00
 intro: A presentation given by one of our members who has shipped out a video game on steam. And an intro to typescript, a popular superset of Javascript for scaling web applications!
 hero_img: /_assets/img/blog/2021/first_event_tampa_devs.jpg
 youtube_id: 9joAWSj1h04

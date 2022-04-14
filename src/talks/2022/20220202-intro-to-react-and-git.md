@@ -1,7 +1,7 @@
 ---
 title: Intro To React and Git
 author: Vincent Tang
-date: 2022-02-02
+date: 2022-02-02 00:00:00 -5:00
 intro: Ever wanted to learn about two important skills in software development? We presented this topic over at one of our sponsor companies, ReliaQuest!
 hero_img: /_assets/img/blog/2021/first_event_tampa_devs.jpg
 youtube_id: TANbBN6DMH4
