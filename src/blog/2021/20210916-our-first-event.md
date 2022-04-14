@@ -1,7 +1,7 @@
 ---
 title: Our first event!
 author: Vincent Tang
-date: 2021-09-16 1:00:00 -5:00
+date: 2021-09-16 0:00:00 -5:00
 intro: Launching our first networking event! And a new website!
 hero_img: /_assets/img/blog/2021/first_event_tampa_devs.jpg
 ---
